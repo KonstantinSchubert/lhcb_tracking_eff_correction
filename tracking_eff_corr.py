@@ -8,10 +8,7 @@
 # there is no MC available with reco14, only reco12. 
 
 # The correction factors for the tracking efficiency also include the correction on the cut efficiency of TRACK_CHI2NDOF, in order to solve
-# two problems at once and also, I think, because it wouldn't be possible to measure two seperate correction factors.
-
-# The ratio file for Reco14 2012 data vs 2012 MC is called ratio2012S20.root 
-# I downloaded it from the twiki as I couldn't find it on AFS, where it was supposed to be available as well. 
+# two problems at once and also, I think, because it wouldn't be possible to measure two seperate correction factors. But this is layman-speculation
 
 
 import logging
